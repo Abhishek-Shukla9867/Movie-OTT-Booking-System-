@@ -10,18 +10,21 @@ I doveloped this project using Core PHP,HTML,JavaScript,CSS,Bootstrap.
 # Main Screen 
 ![Screenshot (266)](https://github.com/Abhishek-Shukla9867/Movie-OTT-Booking-System-/assets/121942566/17a99185-8025-4bbe-a797-3053626c0eea)
 
-# Movies
+# Movies OTT
 
 ![Screenshot (265)](https://github.com/Abhishek-Shukla9867/Movie-OTT-Booking-System-/assets/121942566/bcbb0db8-03f5-4a37-866c-58bcdc005a61)
 
 
 ![Screenshot (268)](https://github.com/Abhishek-Shukla9867/Movie-OTT-Booking-System-/assets/121942566/9d631c11-64d0-4110-9697-73d2212f0f91)
 
+#Team
+
+![Screenshot (293)](https://github.com/Abhishek-Shukla9867/Movie-OTT-Booking-System-/assets/121942566/fd348888-11c2-44fb-a906-60a871454c2b)
 
 
+![Screenshot (294)](https://github.com/Abhishek-Shukla9867/Movie-OTT-Booking-System-/assets/121942566/e826e23c-8960-4ae6-986a-27c6b7ba1dc1)
 
-
-
+![Uploading Screenshot (295).png…]()
 
 ## 1. Home page ##
 ![home1](https://user-images.githubusercontent.com/104883953/167260990-670d3197-5c62-44bc-b821-fcc8d0efd36d.jpg)
